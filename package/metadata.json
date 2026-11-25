@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.taghouti.rephraser",
+        "Name": "Rephraser",
+        "Description": "Paraphrase, correct, humanize or translate the text selected in any app with your own Claude API key",
+        "Icon": "tools-check-spelling",
+        "Category": "Utilities",
+        "Version": "1.0.0",
+        "Website": "https://github.com/taghouti-org/claude-plasma-paraphraser",
+        "BugReportUrl": "https://github.com/taghouti-org/claude-plasma-paraphraser/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
